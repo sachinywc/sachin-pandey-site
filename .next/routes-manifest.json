@@ -42,10 +42,34 @@
       "namedRegex": "^/_not\\-found(?:/)?$"
     },
     {
-      "page": "/about",
-      "regex": "^/about(?:/)?$",
+      "page": "/contact",
+      "regex": "^/contact(?:/)?$",
       "routeKeys": {},
-      "namedRegex": "^/about(?:/)?$"
+      "namedRegex": "^/contact(?:/)?$"
+    },
+    {
+      "page": "/insights",
+      "regex": "^/insights(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/insights(?:/)?$"
+    },
+    {
+      "page": "/insights/blog",
+      "regex": "^/insights/blog(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/insights/blog(?:/)?$"
+    },
+    {
+      "page": "/sitemap.xml",
+      "regex": "^/sitemap\\.xml(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sitemap\\.xml(?:/)?$"
+    },
+    {
+      "page": "/yoga-write-code",
+      "regex": "^/yoga\\-write\\-code(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/yoga\\-write\\-code(?:/)?$"
     }
   ],
   "dataRoutes": [],
